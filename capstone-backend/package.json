@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "parse": "^3.4.3",
+    "superagent": "^8.0.0"
+  },
+ 
+
+  "name": "capstone-backend",
+  "description": "* [Overview](#Overview) * [Product Specs](#Product_specs) * [Wireframes](#Wireframes) * [Schema](#Schema) * [Project_Plan](#Project_Plan)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalamataBah/capstone-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalamataBah/capstone-project/issues"
+  },
+  "homepage": "https://github.com/SalamataBah/capstone-project#readme",
+  "keywords": []
+}

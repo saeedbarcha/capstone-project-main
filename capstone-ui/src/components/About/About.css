@@ -1,0 +1,19 @@
+.about-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.about-us h1 {
+    color: var(--color-text)
+}
+
+.about-us p {
+    font-size: 12px;
+    line-height: 15px;
+    font-family: var(--font-family);
+    color: var(--color-text);
+    margin: 0.5rem 0;
+    
+}

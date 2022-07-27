@@ -1,0 +1,18 @@
+.profile-container {
+    padding: 2px 16px;
+  }
+  
+.profile-container h1 {
+    font-weight:400;
+    font-size:24px;
+  }
+  
+.profile-container h2 {
+    font-weight:400;
+    font-size:18px;
+    line-height:24px;
+  }
+  .optionListContainer {
+    color:black;
+  }
+ 

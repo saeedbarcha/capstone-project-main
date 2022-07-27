@@ -1,0 +1,37 @@
+.update-user {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 111;
+  position: absolute;
+  top: 0;
+}
+
+.update-user-popup {
+  width: 50%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+}
+.label {
+  width: 80px;
+}
+.close-button {
+  background-color: red;
+  align-self: flex-end;
+  width: 5%;
+}
+
+.update-button {
+  background-color: blue;
+  /* align-self: flex-end; */
+  width: 19%;
+  margin-top: 25px;
+  /* margin-left: 17px; */
+}

@@ -1,0 +1,16 @@
+.mentor-grid{
+    display: grid;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    grid-template-columns:  1fr 1fr 1fr 1fr;
+}
+.results{
+    color: var(--color-text);
+    background-color: rgb(18, 47, 235);
+    width: 150px;
+}
+
+.country-location{
+    border-radius: 20px;
+}
